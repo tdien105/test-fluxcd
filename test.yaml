@@ -4,3 +4,12 @@ metadata:
   labels:
     name: demo
   name: demo
+  
+---
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  labels:
+    name: dien-test
+  name: dien-test
